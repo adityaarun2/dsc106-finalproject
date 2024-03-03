@@ -1,0 +1,21 @@
+.bar-gf {
+    fill: #4CAF50; /* Green */
+}
+
+.bar-ga {
+    fill: #f44336; /* Red */
+}
+
+svg {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+}
+
+.axis text {
+    font-size: 12px;
+}
