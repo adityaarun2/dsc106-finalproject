@@ -1,0 +1,26 @@
+{
+    "rounds": [
+      {
+        "name": "Quarter-finals",
+        "matches": [
+          {"team1": "Brazil", "team2": "Belgium", "winner": "Brazil"},
+          {"team1": "France", "team2": "Uruguay", "winner": "France"},
+          {"team1": "England", "team2": "Sweden", "winner": "England"},
+          {"team1": "Russia", "team2": "Croatia", "winner": "Croatia"}
+        ]
+      },
+      {
+        "name": "Semi-finals",
+        "matches": [
+          {"team1": "Brazil", "team2": "France", "winner": "France"},
+          {"team1": "England", "team2": "Croatia", "winner": "Croatia"}
+        ]
+      },
+      {
+        "name": "Final",
+        "matches": [
+          {"team1": "France", "team2": "Croatia", "winner": "France"}
+        ]
+      }
+    ]
+  }  
