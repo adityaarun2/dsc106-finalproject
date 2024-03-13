@@ -49,13 +49,13 @@ body {
 
 #intro-text {
     margin: 1px;
-    text-align: center;
+    text-align: left;
     max-width: 800px;
 }
 
 #context-text {
   margin: 1px;
-  text-align: center;
+  text-align: left;
   max-width: 800px;
 }
 
